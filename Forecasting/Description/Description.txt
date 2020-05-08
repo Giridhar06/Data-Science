@@ -1,0 +1,6 @@
+﻿Time Series Analysis on Revenue of One Renowned Shoe Company and Building Forecasting Models:
+
+Examined the ACF and PACF to find the order of the ARIMA model and ran R software to get the model. 
+Generated various measures such as MRSE, MPE, AIC, BIC and log likelihood to check the health of the model. 
+Built the confidence interval for the coefficients.
+
