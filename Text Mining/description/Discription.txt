@@ -1,0 +1,7 @@
+﻿Sentiment Analysis for Amazon, IMDB and Twitter (Text Mining):
+
+Data extraction from Amazon, IMDB and Twitter. Converting categorical data into numeric data.
+Data Cleansing, Document Term Matrix and Term Document Matrix. 
+Building positive and negative word clouds using Natural Language Processing in both R and Python.
+
+Packages used: TM, Rvest, magrittr, XML, wordcloud, wordcloud2.
