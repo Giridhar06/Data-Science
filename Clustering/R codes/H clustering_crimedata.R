@@ -1,0 +1,10 @@
+data <- crime_data
+normalized_data <- scale(data[ ,2:5])
+d <- dist(normalized_data,method=("euclidean"))
+fit <- hclust(d,method = ("complete"))
+plot(fit)
+plot(fit,hang=-1)
+rect.hclust(fit,k=3,border = "red")
+groups <- cutree(fit,k=3)
+memberships <- as.matrix(groups)
+final <- data.frame(data,memberships)
