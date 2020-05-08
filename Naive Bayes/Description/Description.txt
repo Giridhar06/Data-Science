@@ -1,0 +1,6 @@
+﻿Building a classification model using Naive Bayes (Bayesian Classifier):
+
+Classifying mails into spam and ham. 
+Building a classification model, training and testing the model to find the accuracy of the model based on predicted and actual values. 
+
+Packages used: e1071, TM, caret, gmodels.
