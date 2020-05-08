@@ -1,0 +1,7 @@
+Predicting the burned area of forest fires with ARTIFICIAL NEURAL NETWORKS (ANN):
+
+Black Box Technique for prediction. Building a model, adding dense layers by defining desired number of neurons, using Activation Functions such as linear, relu, gaussian, softmax, etc. 
+Training and testing the model in both R and Python. 
+
+Packages used in R: neuralnet or nnet. 
+Packages used in Python: keras, sklearn. 
